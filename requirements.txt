@@ -12,3 +12,4 @@ pytz==2017.3
 six==1.11.0
 SQLAlchemy==1.2.0
 Werkzeug==0.14.1
+uwsgi
